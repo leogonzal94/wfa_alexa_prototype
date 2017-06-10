@@ -1,0 +1,10 @@
+Content-Type: application/json
+...
+{
+  "uid": "urn:uuid:be93b09c-2f68-405a-a4bd-4a6f2ba48790",
+  "updateDate": "2016-06-10T01:32:51.0Z",
+  "titleText": "Wells Fargo Advisors, Market Close Report, June 9 2017",
+  "mainText": "",
+  "streamUrl": "https://www.dropbox.com/s/uq34ttvlmzjw3h9/marketclose.mp3",
+  "redirectionUrl": "https://www.wellsfargoadvisors.com"
+}
